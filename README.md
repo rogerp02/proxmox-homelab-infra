@@ -12,7 +12,7 @@ This project demonstrates my hands-on experience with setting up a secure and fu
 - **Active Directory**: Windows Server 2022 VM with AD DS role
 - **Network**:
   - `vmbr0`: LAN bridge for internal VMs, containers, and lan net users
-  - `vmbr1`: WAN bridge for outbount (ISP DHCP)
+  - `vmbr1`: WAN bridge for outbound (ISP DHCP)
 - **IP Scheme**:
   - `192.168.5.1` – OPNsense LAN Gateway
   - `192.168.5.2` – Proxmox Host
